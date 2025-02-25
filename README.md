@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**PineappleCat530/PineappleCat530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Hello! Im PineappleCat530</h1>
+    <h2><i>(Also Known as Charlie)</i></h2>
+    <p>Im currently a Seinor in HS and learnign HTML 5 and CSS for class</p>
+    <p>Besides Coding i do graphic design and such in my free time along with enjoying card games</p>
+  </body>
+</html>
